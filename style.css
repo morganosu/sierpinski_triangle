@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 100;
+  background-color: black
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+main {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  display: block;
+}
